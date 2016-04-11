@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # Advanced PHP Heroku Build Pack
 
 ## What makes it unique?
